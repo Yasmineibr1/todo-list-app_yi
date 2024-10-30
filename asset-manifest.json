@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.c4882d8c.css",
-    "main.js": "/static/js/main.9cfbc9c0.js",
-    "static/js/453.fb188ffa.chunk.js": "/static/js/453.fb188ffa.chunk.js",
-    "index.html": "/index.html",
-    "main.c4882d8c.css.map": "/static/css/main.c4882d8c.css.map",
-    "main.9cfbc9c0.js.map": "/static/js/main.9cfbc9c0.js.map",
-    "453.fb188ffa.chunk.js.map": "/static/js/453.fb188ffa.chunk.js.map"
+    "main.css": "/todo-list-avanc-react-Yasmineibr1/static/css/main.c4882d8c.css",
+    "main.js": "/todo-list-avanc-react-Yasmineibr1/static/js/main.359eb5ca.js",
+    "static/js/453.fb188ffa.chunk.js": "/todo-list-avanc-react-Yasmineibr1/static/js/453.fb188ffa.chunk.js",
+    "index.html": "/todo-list-avanc-react-Yasmineibr1/index.html",
+    "main.c4882d8c.css.map": "/todo-list-avanc-react-Yasmineibr1/static/css/main.c4882d8c.css.map",
+    "main.359eb5ca.js.map": "/todo-list-avanc-react-Yasmineibr1/static/js/main.359eb5ca.js.map",
+    "453.fb188ffa.chunk.js.map": "/todo-list-avanc-react-Yasmineibr1/static/js/453.fb188ffa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4882d8c.css",
-    "static/js/main.9cfbc9c0.js"
+    "static/js/main.359eb5ca.js"
   ]
 }
